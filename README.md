@@ -5,10 +5,13 @@ This Python script creates a private Spotify playlist based on Billboard's Hot 1
 ## Features
 
 - Scrapes Billboard's website for top 100 songs on a specified date.
+![Scraping](assets/scraping.png)
 - Searches for each song on Spotify and adds them to a private playlist.
+![Console](assets/console-input.png)
 - Utilizes OAuth 2.0 for Spotify authentication.
 - Uses environment variables for API keys and user credentials.
-
+### Result
+![result](assets/result.png)
 ## Prerequisites
 
 - Python 3
